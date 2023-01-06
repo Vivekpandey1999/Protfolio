@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Poppins',sans-serif;
+    box-sizing: border-box;
+}
+body{
+    background-color: #000000;
+    color: #fff;
+}
+#header{
+   height: 100vh;
+   width: 100%;
+   background-image: url(Images/vivek-p1.png);
+   background-size: cover;
+   background-position: center;
+
+}
+.logo{
+    background-color: #000000;
+    align-items: right;
+    justify-content: right;
+}
